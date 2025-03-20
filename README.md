@@ -4,3 +4,8 @@
 <hr>
 <h1>Disclaimer</h1>
 <p>If you use this scipt in a bad manner (i.e. uploading to someones website without their permission i do not hold ANY responibility if you get into trouble for bad actions</p>
+<hr>
+<h1>Features</h1>
+<p>Upload tool - Upload files to the server with ease</p>
+<p>Download tool - Download files off the server with ease</p>
+<p>File veiw tool - Veiw all files on the webserver with ease</p>
